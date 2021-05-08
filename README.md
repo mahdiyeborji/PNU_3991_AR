@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/README.md)
 
-- [رزومه]()
+- [رزومه](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/RESOME.docx)
 
 - [SOP]()
 
