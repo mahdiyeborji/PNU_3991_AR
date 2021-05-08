@@ -17,5 +17,5 @@
 
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/MB_CV_CheckList_AR_3991-1.docx)
 
-- [خلاصه ارزیابی بخش عمومی]()
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/MB_GeneralSection_CheckList_AR_3991-2%20-%20Copy.docx)
 ------------------
