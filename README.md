@@ -6,7 +6,7 @@
 
  
 ---
-- [CERTIFICATE]()
+- [CERTIFICATE](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/CERTIFICATE.pdf)
 
 - [حساب گیت هاب](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/README.md)
 
@@ -14,7 +14,7 @@
 
 - [SOP](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/SOP.docx)
 
-- [java script]()
+- [java script](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/CERTIFICATE.pdf)
 ------------------
 >  ارزیابی ها
  
