@@ -7,7 +7,7 @@
 
 - [رزومه](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/RESOME.docx)
 
-- [SOP]()
+- [SOP](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/SOP.docx)
 
 - [java script]()
 ------------------
