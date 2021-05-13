@@ -12,7 +12,7 @@
 
 - [رزومه](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/rezome.docx)
 
-- [SOP](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/SOP.docx)
+- [SOP](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/sop.pdf)
 
 - [java script](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/CERTIFICATE.pdf)
 ------------------
