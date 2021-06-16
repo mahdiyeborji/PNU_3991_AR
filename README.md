@@ -10,7 +10,7 @@
 
 - [حساب گیت هاب](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/README.md)
 
-- [رزومه]()
+- [رزومه](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/%D8%B1%D8%B2%D9%88%D9%85%D9%87.pdf)
 
 - [SOP](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/sop.pdf)
 
