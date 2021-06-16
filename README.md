@@ -12,7 +12,7 @@
 
 - [رزومه]()
 
-- [SOP]()
+- [SOP](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/sop.pdf)
 
 - [java script](https://github.com/mahdiyeborji/PNU_3991_AR/blob/main/CERTIFICATE.pdf)
 ------------------
